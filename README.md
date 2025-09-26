@@ -1,4 +1,4 @@
-# Hi there! 👋 I'm [Your Name]
+# Hi there! 👋 I'm Zuhri Noor
 
 ## 🎯 About Me
 Software developer passionate about leveraging cutting-edge technology to solve real-world problems. I combine strong technical skills in programming and software development with leadership, communication, and teamwork abilities to drive innovation and deliver impactful solutions.
